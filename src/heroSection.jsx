@@ -1,5 +1,5 @@
 import React from 'react'
-import GurpreetPhoto from './assets/gurpreetimg.jpeg'
+import GurpreetPhoto from './assets/gurpreet.jpeg'
 function heroSection() {
   return (
     <div className="Hero flex justify-around items-center mt-5 bg-black-50">
