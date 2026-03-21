@@ -5,43 +5,43 @@ function skills() {
   {
    
     name: "HTML",
-    logo: "/logos/html.svg",
+    logo: "src/assets/Html.png",
     level: "Advanced",
     category: "Frontend"
   },
   {
     name: "CSS",
-    logo: "/logos/css.svg",
+    logo: "src/assets/css.png",
     level: "Advanced",
     category: "Frontend"
   },
   {
     name: "JavaScript",
-    logo: "/logos/javascript.svg",
+    logo: "src/assets/js.png",
     level: "Intermediate",
     category: "Programming"
   },
   {
     name: "React",
-    logo: "/logos/react.svg",
+    logo: "src/assets/react.png",
     level: "Intermediate",
     category: "Frontend"
   },
   {
-    name: "Tailwind CSS",
-    logo: "/logos/tailwind.svg",
+    name: "Tailwind",
+    logo: "src/assets/Tailwind.png",
     level: "Intermediate",
     category: "Styling"
   },
   {
     name: "Git",
-    logo: "/logos/git.svg",
+    logo: "src/assets/git.png",
     level: "Intermediate",
     category: "Tools"
   },
   {
     name: "C++",
-    logo: "/logos/cpp.svg",
+    logo: "src/assets/c++.png",
     level: "Intermediate",
     category: "Programming"
   }
