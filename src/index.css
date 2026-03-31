@@ -1,33 +1,8 @@
 @import "tailwindcss";
 
-body{
-
-
-}
-.Nav{
-  display: flex;
-  background-color: rgb(35, 32, 32);
-  color:white;
-  justify-content: space-between;
-  height: 9%;
-  padding: 1.5vmin;
-  align-items: center;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-.Name{
-  margin: 2vh;
-  font-weight: 300;
-
-
-}
-
-
 .section{
   height: 100vh;
   display: flex;
   justify-content:center;
   align-items: center;
-}
-.Hero{
-  height: 91vh
 }
