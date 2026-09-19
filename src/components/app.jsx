@@ -1,10 +1,9 @@
 import React from 'react'
-import Landingpage from './LandingPage'
-import Bg from './Bg'
+
 function App() {
   return (
-   <> 
-   <Bg/>
+   <> ,
+   <h1 className=' m-auto p-auto'> Site Under  Maintenance</h1>
    </>
        
    
